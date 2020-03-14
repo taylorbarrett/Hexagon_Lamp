@@ -1,5 +1,5 @@
 # Hexagon Lamp
-Lamp base and shade 
+3-D Lamp base made of sliced & re-stacked laser cut hexagons 
 
 © 2020, Taylor Lucas Barrett
 
