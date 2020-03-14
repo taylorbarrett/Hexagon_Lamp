@@ -19,7 +19,7 @@ Materials used:
 
 *Click to read build thread on [Medium](https://medium.com/@taylorlucasbarrett/digital-fabrication-project-2-learning-curves-79b2128f1427).*
 
-<a href="https://medium.com/p/c8c1f62ef0cf/"><img src="https://github.com/taylorbarrett/nyc-lightbox/raw/master/photos/49470800398_3181a8514a_c.jpg" width="100%" alt="Commit Aviation"></a>
+<a href="https://medium.com/p/c8c1f62ef0cf/"><img src="https://github.com/taylorbarrett/Hexagon_Lamp/blob/master/IMG_20200219_105924.jpg" width="100%" alt="HEXLAMP"></a>
 
 <a href="https://medium.com/p/c8c1f62ef0cf/"><img src="https://github.com/taylorbarrett/nyc-lightbox/raw/master/photos/49471292786_3b9a87aa22_k.jpg" width="100%" alt="Commit Aviation"></a>
 
